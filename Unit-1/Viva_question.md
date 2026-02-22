@@ -1,4 +1,4 @@
-# 📑 Data Structures & Algorithms: Lab Viva-Voce Guide
+# 📑 Data Structures & Algorithms: Lab Viva Questions Guide
 **Name:** Anveshna | **Roll No:** 2501010130
 
 ---
